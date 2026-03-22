@@ -104,3 +104,5 @@ None required. The app fetches `/data.json` from the public folder.
 - If `data.json` is missing, the tool runs in **Demo Mode** with synthetic data so you can see the UI
 - Coordinate mapping auto-fits to the data bounds — no manual calibration needed
 - Bot detection: numeric user IDs = humans, UUID user IDs = bots
+  
+**Live Demo:** https://lila-player-journey.vercel.app 
